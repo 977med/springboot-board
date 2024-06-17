@@ -2,6 +2,7 @@
 스프링부트 + MySQL + 타임리프 게시판
 
 # 프로젝트 디렉토리
+```
 springboot-board
 ├─main
 │  ├─java
@@ -40,4 +41,4 @@ springboot-board
 │      │      
 │      └─upload_files
 └─test
-
+```
