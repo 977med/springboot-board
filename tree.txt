@@ -1,0 +1,46 @@
+새 볼륨 볼륨에 대한 폴더 경로의 목록입니다.
+볼륨 일련 번호는 4A02-6F9C입니다.
+D:\BOARD_TISTORY\SPRINGBOOT-BOARD\SRC
+├─main
+│  ├─java
+│  │  └─com
+│  │      └─highgarden
+│  │          └─springboot_board
+│  │              │  SpringbootBoardApplication.java
+│  │              │  
+│  │              ├─controller
+│  │              │      BoardController.java
+│  │              │      IndexController.java
+│  │              │      
+│  │              ├─dto
+│  │              │      BoardDTO.java
+│  │              │      
+│  │              ├─repository
+│  │              │      BoardRepository.java
+│  │              │      
+│  │              └─service
+│  │                      BoardService.java
+│  │                      
+│  └─resources
+│      │  application.yml
+│      │  mybatis-config.xml
+│      │  
+│      ├─mapper
+│      │      board-mapper.xml
+│      │      
+│      ├─static
+│      ├─templates
+│      │      detail.html
+│      │      index.html
+│      │      list.html
+│      │      save.html
+│      │      update.html
+│      │      
+│      └─upload_files
+└─test
+    └─java
+        └─com
+            └─highgarden
+                └─springboot_board
+                        SpringbootBoardApplicationTests.java
+                        
