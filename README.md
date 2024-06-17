@@ -3,7 +3,7 @@
 
 # 프로젝트 디렉토리
 ```
-springboot-board
+src
 ├─main
 │  ├─java
 │  │  └─com
