@@ -1,0 +1,7 @@
+FROM openjdk:17-jdk-slim
+
+WORKDIR /app
+
+COPY build/libs/springboot-board-0.0.1-SNAPSHOT.jar /app/springboot-board-0.0.1-SNAPSHOT.jar
+
+CMD ["java", "-jar", "springboot-board-0.0.1-SNAPSHOT.jar"]
