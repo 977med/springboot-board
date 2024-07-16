@@ -1,7 +1,7 @@
 # springboot-board
 스프링부트 + MySQL + 타임리프 게시판
 
-# github webhook test
+# github webhook test2
 
 # 프로젝트 디렉토리
 ```
